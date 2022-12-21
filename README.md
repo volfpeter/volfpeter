@@ -2,7 +2,7 @@ Hi,
 
 I’m Peter Volf, SW engineer for many years now with a master's degree in computer science, located in Hungary.
 
-My main professional interest has been Python ever since I first started using it around ~2008. I also really enjoy working with React and TypeScript, and doing full-stack application development. Although not an expert, I'm also interested in Linux and the open-source world in general. At university, I specialized in network/graph analysis and machine learning -- it was a long time ago, it would be great to have the time to pick these up again.
+My main professional interest has been Python ever since I first started using it around ~2008. I also really enjoy working with React and TypeScript, and doing full-stack application development. I'm also interested in Linux and the open-source world in general. At university, I specialized in network/graph analysis and machine learning -- it was a long time ago, it would be great to have the time to pick these up again.
 
 I'm fascinated by everything that is simple and elegant, but gives rise to complex behaviors. I try to create such software at work.
 
