@@ -11,6 +11,7 @@ Some of my more interesting projects are:
 - [graphscraper](https://github.com/volfpeter/graphscraper) is an SQL graph database with an in-memory cache and a built-in, on-demand web scraper.
 - [fastapi-motor-oil](https://github.com/volfpeter/fastapi-motor-oil) is a collection of typed utilities for using MongoDB (and the asyncio motor driver) with Pydantic and FastAPI.
 - [markyp](https://github.com/volfpeter/markyp) is an XML templating engine and parser tool.
+- [markyp-html](https://github.com/volfpeter/markyp-html) is an HTML implementation based on `markyp` that lets you write static webpages 100% in Python (i.e., without Jinja templates).
 - [markyp-bootstrap4](https://github.com/volfpeter/markyp-bootstrap4) is a full Bootstrap4 implementation based on `markyp-html`.
 - [Horizon Planner](https://milinnovations.gitlab.io/horizon-developer-blog/), my most recent professional project.
 
