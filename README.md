@@ -18,10 +18,12 @@ Some of my more interesting hobby projects are:
 - [markyp-bootstrap4](https://github.com/volfpeter/markyp-bootstrap4) is a full Bootstrap4 implementation based on `markyp-html`.
 
 My recent professional projects:
-- Currently I work on [AIP Derm](https://www.aipderm.com/), an AI-assisted digital dermatology hospital.
+- Currently I work on AI-assisted digital healthcare services [AIP Clinic](https://www.aipclinic.com/) and [AIP Derm](https://www.aipderm.com/), on the [LNGx platform](https://www.lngx.es/), and on various internal business tools.
 - [Horizon Planner](https://milinnovations.gitlab.io/horizon-developer-blog/), an enterprise resource planning and project management application (tech lead/principal engineer, 2019-2023).
 
-You can find me on:
+I also tutor engineers, from juniors to seniors, primarily focusing on Python and system architecture/design.
+
+I'm available for consulting and contract work, you can find me on:
 - [Linkedin](https://www.linkedin.com/in/volfpeter/)
 - [Mastodon](https://mastodon.social/@volfpeter)
 - [GitLab](https://gitlab.com/volfpeter)
